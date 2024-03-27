@@ -1,0 +1,11 @@
+com/taiwanmobile/socialengineer/smstest/MyRequestObject.class
+com/taiwanmobile/socialengineer/smstest/ParseWritingLine.class
+com/taiwanmobile/socialengineer/smstest/PostfixEmail.class
+com/taiwanmobile/socialengineer/smstest/ParseWritingLineOrg.class
+com/taiwanmobile/socialengineer/smstest/SmsNewApplication.class
+com/taiwanmobile/socialengineer/smstest/PostfixEmailJpaRepository.class
+com/taiwanmobile/socialengineer/smstest/TwmSms.class
+com/taiwanmobile/socialengineer/smstest/PhishEmailJpaRepository.class
+com/taiwanmobile/socialengineer/smstest/CommonService.class
+com/taiwanmobile/socialengineer/smstest/MailLogService.class
+com/taiwanmobile/socialengineer/smstest/PhishEmail.class

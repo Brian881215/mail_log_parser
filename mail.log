@@ -1,0 +1,14 @@
+Mar  5 13:59:15 mail-server1 postfix/smtpd[833268]: connect from aet-asiaeast1-maip--serverless--vpc-89k5.asia-east1-a.c.maip-poc.internal[10.8.0.8]
+Mar  5 13:59:15 mail-server1 postfix/smtpd[833268]: 964BA2071B: client=aet-asiaeast1-maip--serverless--vpc-89k5.asia-east1-a.c.maip-poc.internal[10.8.0.8]
+Mar  5 13:59:15 mail-server1 postfix/cleanup[833271]: 964BA2071B: message-id=<2096608405.0.1678024755592@localhost>
+Mar  5 13:59:15 mail-server1 postfix/qmgr[228615]: 964BA2071B: from=<TWMSocialEngineer@twm.com>, size=708, nrcpt=1 (queue active)
+Mar  5 13:59:15 mail-server1 postfix/smtpd[833268]: disconnect from aet-asiaeast1-maip--serverless--vpc-89k5.asia-east1-a.c.maip-poc.internal[10.8.0.8] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Mar  5 13:59:15 mail-server1 postfix/smtp[833272]: 964BA2071B: to=<chrisyen@taiwanmobile.com>, relay=tccmr6.taiwanmobile.com[61.30.25.18]:25, delay=0.14, delays=0.02/0.02/0.04/0.06, dsn=2.0.0, status=sent (250 2.0.0 Ok: queued as B26F72BF7BAF)
+Mar  5 13:59:15 mail-server1 postfix/qmgr[228615]: 964BA2071B: removed
+Mar  6 02:38:12 mail-server1 postfix/smtpd[835094]: connect from aet-asiaeast1-maip--serverless--vpc-89k5.asia-east1-a.c.maip-poc.internal[10.8.0.8]
+Mar  6 02:38:12 mail-server1 postfix/smtpd[835094]: 1EBFB24DF6: client=aet-asiaeast1-maip--serverless--vpc-89k5.asia-east1-a.c.maip-poc.internal[10.8.0.8]
+Mar  6 02:38:12 mail-server1 postfix/cleanup[835097]: 1EBFB24DF6: message-id=<1143905515.0.1678070292105@localhost>
+Mar  6 02:38:12 mail-server1 postfix/qmgr[228615]: 1EBFB24DF6: from=<TWMSocialEngineer@twm.com>, size=708, nrcpt=1 (queue active)
+Mar  6 02:38:12 mail-server1 postfix/smtpd[835094]: disconnect from aet-asiaeast1-maip--serverless--vpc-89k5.asia-east1-a.c.maip-poc.internal[10.8.0.8] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Mar  6 02:38:12 mail-server1 postfix/smtp[835098]: 1EBFB24DF6: to=<chrisyen@taiwanmobile.com>, relay=tccmr6.taiwanmobile.com[61.30.25.18]:25, delay=0.13, delays=0.02/0.02/0.04/0.06, dsn=2.0.0, status=sent (250 2.0.0 Ok: queued as 3A06F2BF244B)
+Mar  6 02:38:12 mail-server1 postfix/qmgr[228615]: 1EBFB24DF6: removed
